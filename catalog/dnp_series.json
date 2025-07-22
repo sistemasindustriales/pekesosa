@@ -1,0 +1,11 @@
+{
+  "metas": [
+    {
+      "id": "tt0000002",
+      "type": "series",
+      "name": "Ejemplo Serie",
+      "poster": "https://upload.wikimedia.org/wikipedia/commons/6/65/No-Image-Placeholder.svg",
+      "description": "Serie de prueba para este cat\u00e1logo."
+    }
+  ]
+}

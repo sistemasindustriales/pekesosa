@@ -1,0 +1,11 @@
+{
+  "metas": [
+    {
+      "id": "tt0000001",
+      "type": "movie",
+      "name": "Ejemplo Pel\u00edcula",
+      "poster": "https://upload.wikimedia.org/wikipedia/commons/6/65/No-Image-Placeholder.svg",
+      "description": "Pel\u00edcula de prueba para este cat\u00e1logo."
+    }
+  ]
+}
