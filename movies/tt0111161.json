@@ -1,0 +1,25 @@
+{
+  "meta": {
+    "id": "tt0111161",
+    "type": "movie",
+    "name": "The Shawshank Redemption",
+    "genres": ["Drama"],
+    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/q6y0Go1tsGEsmtFryDOJo3dEmqu.jpg",
+    "posterShape": "poster",
+    "background": "https://image.tmdb.org/t/p/original/wTUyx1kCF7dPeJ7JwZRlS1cmHNI.jpg",
+    "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/wTUyx1kCF7dPeJ7JwZRlS1cmHNI.jpg",
+    "description": "Framed in the 1940s for the double murder of his wife and her lover, upstanding banker Andy Dufresne begins a new life at the Shawshank prison, where he puts his accounting skills to work for an amoral warden. During his long stretch in prison, Dufresne comes to be admired by the other inmates -- including an older prisoner named Red -- for his integrity and unquenchable sense of hope."
+  },
+  "streams": [
+    {
+      "title": "1080p HLS",
+      "url": "https://guileless-alpaca-52f781.netlify.app/demo.m3u8",
+      "type": "hls"
+    },
+    {
+      "title": "720p MP4",
+      "url": "https://tusuario.github.io/repo/videos/elpadrino.mp4",
+      "type": "other"
+    }
+  ]
+}

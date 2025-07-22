@@ -1,0 +1,24 @@
+{
+  "id": "com.github.tuusuario.misvideos",
+  "version": "1.0.0",
+  "name": "Mis Videos en GitHub",
+  "description": "Streaming de mis archivos desde GitHub",
+  "resources": ["stream", "catalog"],
+  "types": ["movie", "series"],
+  "catalogs": [
+    {
+      "type": "movie",
+      "id": "movies",
+      "name": "Películas",
+      "extra": [{ "name": "genre", "isRequired": false }]
+    },
+    {
+      "type": "series",
+      "id": "series",
+      "name": "Series",
+      "extra": [{ "name": "genre", "isRequired": false }]
+    }
+  ],
+  "idPrefixes": ["tt"],
+  "logo": "https://i.imgur.com/D3zPfEq.png"
+}

@@ -1,0 +1,31 @@
+{
+  "meta": {
+    "id": "tt4574334",
+    "type": "series",
+    "name": "Stranger Things",
+    "genres": ["Drama", "Fantasy", "Horror"],
+    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/x2LSRK2Cm7MZhjluni1msVJ3wDF.jpg",
+    "description": "When a young boy vanishes...",
+    "releaseInfo": "2016-2019",
+    "imdbRating": "8.7",
+    "videos": []
+  },
+  "streams": [
+    {
+      "title": "Chapter One: The Vanishing of Will Byers",
+      "url": "https://tudominio.com/videos/strangerthings_s1e1.m3u8",
+      "type": "hls",
+      "season": 1,
+      "episode": 1,
+      "thumbnail": "https://example.com/thumbnails/s1e1.jpg"
+    },
+    {
+      "title": "Chapter Two: The Weirdo on Maple Street",
+      "url": "https://tudominio.com/videos/strangerthings_s1e2.m3u8",
+      "type": "hls",
+      "season": 1,
+      "episode": 2,
+      "thumbnail": "https://example.com/thumbnails/s1e2.jpg"
+    }
+  ]
+}
