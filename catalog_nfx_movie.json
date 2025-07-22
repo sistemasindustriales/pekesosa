@@ -1,0 +1,12 @@
+{
+  "metas": [
+    {
+      "id": "tt1375666",
+      "type": "movie",
+      "name": "Inception",
+      "poster": "https://image.tmdb.org/t/p/w500/9gk7adHYeDvHkCSEqAvQNLV5Uge.jpg",
+      "description": "Un ladrón que roba secretos corporativos mediante el uso de la tecnología de sueño compartido.",
+      "year": 2010
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "id": "org.torreintio.catalog-multiplataforma",
+  "version": "1.0.0",
+  "name": "Series y Películas MAX",
+  "description": "Catálogo por plataforma estilo Netflix, Disney+, HBO, etc. sin Node.js.",
+  "logo": "https://upload.wikimedia.org/wikipedia/commons/7/75/Stremio-logotype-2022.svg",
+  "resources": [
+    "catalog"
+  ],
+  "types": [
+    "movie",
+    "series"
+  ],
+  "idPrefixes": [
+    "tt"
+  ],
+  "catalogs": [
+    {
+      "id": "nfx",
+      "type": "movie",
+      "name": "Netflix - Películas"
+    },
+    {
+      "id": "nfx",
+      "type": "series",
+      "name": "Netflix - Series"
+    },
+    {
+      "id": "hbm",
+      "type": "movie",
+      "name": "HBO Max - Películas"
+    },
+    {
+      "id": "hbm",
+      "type": "series",
+      "name": "HBO Max - Series"
+    },
+    {
+      "id": "dnp",
+      "type": "movie",
+      "name": "Disney+ - Películas"
+    },
+    {
+      "id": "dnp",
+      "type": "series",
+      "name": "Disney+ - Series"
+    }
+  ],
+  "behaviorHints": {
+    "configurable": true
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "metas": [
+    {
+      "id": "tt9140554",
+      "type": "series",
+      "name": "The Witcher",
+      "poster": "https://image.tmdb.org/t/p/w500/zrPpUlehQaBf8YX2NrVrKK8IEpf.jpg",
+      "description": "Un cazador de monstruos intenta encontrar su lugar en un mundo donde las personas pueden ser más perversas que las bestias.",
+      "year": 2019
+    },
+    {
+      "id": "tt4786824",
+      "type": "series",
+      "name": "Stranger Things",
+      "poster": "https://image.tmdb.org/t/p/w500/x2LSRK2Cm7MZhjluni1msVJ3wDF.jpg",
+      "description": "Cuando un niño desaparece, un pueblo descubre experimentos secretos, fuerzas sobrenaturales y una niña muy especial.",
+      "year": 2016
+    }
+  ]
+}
